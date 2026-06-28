@@ -10,7 +10,6 @@ import {
   ArrowRight,
   Sparkles,
   RefreshCw,
-  File,
   HelpCircle,
   Send,
   Trash2,
